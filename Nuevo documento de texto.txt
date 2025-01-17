@@ -1,0 +1,1 @@
+powershell.exe -NoExit -Command "Set-Location 'C:\Users\Mangel\Downloads\Nueva carpeta (7)\2\python3-website-blocker-master'"
